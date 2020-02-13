@@ -6,8 +6,8 @@ import (
 	"fmt"
     
     // Import the generated protobuf code
-	pb "github.com/mostfamiliar/shippy/consignment-service/proto/consignment"
-	"github.com/micro/go-micro"
+	pb "github.com/mostfamiliar/shippy-service-consignment/proto/consignment"
+	"github.com/micro/go-micro/v2"
 	"context"
 )
 
