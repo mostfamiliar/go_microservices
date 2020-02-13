@@ -7,7 +7,7 @@ import (
     
     // Import the generated protobuf code
 	pb "github.com/mostfamiliar/shippy-service-consignment/proto/consignment"
-	"github.com/micro/go-micro/v2"
+	"github.com/micro/go-micro"
 	"context"
 )
 
